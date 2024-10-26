@@ -13,4 +13,4 @@ Save these credentials, as you’ll need them to authenticate your requests.
 # Authenticate & Fetch Data Using Spotify API
 Extract metadata, add extra features and retrieve Audio Features
 
-# Perform Data Analysis, Data Visuvalization
+Perform Data Analysis, Data Visuvalization
